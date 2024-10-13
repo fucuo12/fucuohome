@@ -12,29 +12,40 @@ To install and run this project, follow these steps:
    ```bash
    git clone https://github.com/fucuo12/fucuohome
 
-2.**Navigate to the project directory**:
-   
+2. **Navigate to the project directory**:
+   ```bash
    cd fucuohome
 
-3.**Install dependencies**:
-   
+3. **Install dependencies**:
+   ```bash
    pip install -r requirements.txt
 
-4.**Run the project**:
-   
+4. **Run the project**:
+   ```bash
    python app.py
 
 ## Usage
 
-  **How to use the project**:
+### How to use the project
+- Explanation of how to use the project.
+  - Example commands or steps to get started:
+    ```bash
+    command1
+    command2
+    ```
 
-     Explanation of how to use the project.
-     Example commands or steps to get started.
+### Examples of usage
+- **Example 1**: Description of example 1.
+  - Example command:
+    ```bash
+    command1
+    ```
 
-  **Examples of usage**:
-
-     *Example 1*: Description of example 1.
-     *Example 2*: Description of example 2.
+- **Example 2**: Description of example 2.
+  - Example command:
+    ```bash
+    command2
+    ```
 
 ## Contributing
 
