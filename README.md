@@ -13,12 +13,15 @@ To install and run this project, follow these steps:
    git clone https://github.com/fucuo12/fucuohome
 
 2.**Navigate to the project directory**:
+   
    cd fucuohome
 
 3.**Install dependencies**:
+   
    pip install -r requirements.txt
 
 4.**Run the project**:
+   
    python app.py
 
 ## Usage
@@ -30,8 +33,8 @@ To install and run this project, follow these steps:
 
   **Examples of usage**:
 
-     Example 1: Description of example 1.
-     Example 2: Description of example 2.
+     *Example 1*: Description of example 1.
+     *Example 2*: Description of example 2.
 
 ## Contributing
 
